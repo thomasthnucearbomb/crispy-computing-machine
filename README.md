@@ -1,1 +1,1 @@
-# crispy-computing-machine
+This is a repsoitory for random projects
